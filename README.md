@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sadia sultana bristy" target="blank"><img align="center" src="https://www.linkedin.com/in/sadia-sultana-bristy/" alt="sadia sultana bristy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadia sultana bristy" target="blank"><img align="center" src="https://www.linkedin.com/in/sadia-sultana-bristy/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadia sultana bristy" height="30" width="40" /></a>
 <a href="https://fb.com/sadia bristy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadia bristy" height="30" width="40" /></a>
 <a href="https://instagram.com/picchiii_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="picchiii_16" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cloud_no_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cloud_no_7" height="30" width="40" /></a>
